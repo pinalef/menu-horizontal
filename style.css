@@ -1,0 +1,27 @@
+body{
+	font-family: Helvetica;
+}
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	background-color: black;
+	line-height: 40px;
+
+}
+
+li{
+	display: inline-block;
+	width: 200px;
+	text-align: center;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+a:hover{
+	background-color: yellow;
+	color: black;
+}
